@@ -1,5 +1,6 @@
 # Midterm_Projects_Cpp_I
  C++ - Semester I - Projects
+ 
  ![Report](Mid_Term_Project_Report.pdf)
  
 ## Midterm Project 1 - Savings Bond (set amount)

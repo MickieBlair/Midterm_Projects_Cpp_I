@@ -22,13 +22,24 @@ The program will then output the following:
 * Money spent to buy savings bonds (Amount varies- 0%, <25%, >25%)
 * Money parents spent on buying additional savings bonds (depends on user amount)
 
-## Midterm Project 3 - Loan Repayment Calculator
+## Midterm Project 3 - Loan Repayment Calculator Part A
 The program will ask the user to enter the following:
 * loan amount
 * interest rate
 * monthly payment.
 
 The program will calculate and display the number of months it will take to repay the loan.
+
+## Midterm Project 3 - Loan Repayment Calculator Part B
+The program will ask the user to enter the following:
+* loan amount
+* interest rate
+* monthly payment.
+
+The program will calculate and display the following:
+* number of months it will take to repay the loan
+* amount of last payment
+* total interest paid
 
 
 
